@@ -12,3 +12,4 @@ Y ahora si ejecutamos el código desde la máquina atacante, ya podremos inserta
 
 https://user-images.githubusercontent.com/96432001/223709031-eb2f57d2-1f78-4edb-af0c-c662dbc75959.png
 
+NO ME HAGO RESPONSABKE DEL MAL USO DE ESTA ERRAMIENTA NI NADA RELACIONADO CON ELLA ESTO ES MERAMENTE INFORMATIVO
