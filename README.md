@@ -6,5 +6,6 @@ Necesitaremos ejecutar el script atacante.py desde la máquina atacante, donde s
 
 El funcionamiento será el siguiente, donde primero ejecutaremos el código desde la máquina víctima para que permanezca en escucha a espera del comando enviado por la máquina atacante:
 https://user-images.githubusercontent.com/96432001/223709097-8ac5ff76-c14d-4b8c-a1c5-ae240577109f.png
+
 Y ahora si ejecutamos el código desde la máquina atacante, ya podremos insertar el comando que queramos y recibirlo de vuelta:
 
